@@ -46,7 +46,7 @@ The model's performance was evaluated on a validation set using **ROUGE (Recall-
 ## 📂 Repository Contents
 | File/Folder | Description |
 | :--- | :--- |
-| `Text_Summarizer_COLAB_RUNABLE_FOR_GITHUB.ipynb` | **The Complete Notebook:** The fully executable Google Colab notebook containing all steps: data loading, tokenization, training, evaluation, and artifact generation. |
+| `Text_Summarizer` | **The Complete Notebook:** The fully executable Google Colab notebook containing all steps: data loading, tokenization, training, evaluation, and artifact generation. |
 | `examples.csv` | **Evaluation Artifacts:** A CSV file showing side-by-side examples of the **Article**, the **Human Reference Summary**, and the **Model's Generated Prediction** for visual quality assessment. |
 | `app.py` | * The file used to deploy the live demo on Hugging Face Spaces. |
 | `LLM Text Summarizer Demo` |* Screenshot of the live demo on Hugging Face Spaces. |
