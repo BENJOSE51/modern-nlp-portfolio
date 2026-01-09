@@ -1,6 +1,7 @@
 This folder contains GitHub Actions workflows used to automate testing, validation, and quality checks for the RAG system.
 
 The workflows are designed to ensure that only reliable and verifiable changes are merged and deployed, reflecting real-world MLOps practices.
+
 Purpose of CI/CD in This Project
 
 LLM-based systems are probabilistic by nature, which makes automated validation and guardrails essential.
